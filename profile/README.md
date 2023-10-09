@@ -1,1 +1,1 @@
-# pincoin organization
+pincoin open source project
